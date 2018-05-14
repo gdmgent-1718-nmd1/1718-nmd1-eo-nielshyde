@@ -21,9 +21,16 @@ img {
 .analyse {
     text-align: center;
     width: 30%;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-left: 2%;
+    margin-top: 40px;
 }
 
 .analysetxt {
     padding: 10px;
+}
+
+.analyseflex {
+    display: flex;
+    flex-wrap: wrap;    
 }

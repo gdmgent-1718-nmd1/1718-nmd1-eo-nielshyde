@@ -1,5 +1,5 @@
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Hind', 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
     letter-spacing: -.022em;
     font-synthesis: none;
@@ -8,7 +8,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
     color: #333;
     line-height: 1.5em;
-    padding: 25px;
+    padding: 50px 50px 50px 50px;
+    background-color: hsla(91, 65%, 61%, 1);
 }
 
 img {
@@ -16,3 +17,13 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+.analyse {
+    text-align: center;
+    width: 30%;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.analysetxt {
+    padding: 10px;
+}

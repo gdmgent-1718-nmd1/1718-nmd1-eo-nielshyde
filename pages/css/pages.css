@@ -9,7 +9,9 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 50px 50px 50px 50px;
-    background-color: hsla(91, 65%, 61%, 1);
+    background-color: rgba(155, 220, 90, 0.75);
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 img {
@@ -17,6 +19,36 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+/* Introductie */
+
+.info {
+    float: left;
+    padding-right: 100px;
+    /* border-right: 1px solid #333; */
+}
+
+.intro {
+    margin-left: 200px;
+    border-left: 1px solid #333;
+    padding-top: 50px;
+}
+
+#opdracht {
+    clear: left;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+/* Concurrentieanalyse */
 
 .analyse {
     text-align: center;

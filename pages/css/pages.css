@@ -31,7 +31,7 @@ img {
 .intro {
     margin-left: 200px;
     border-left: 1px solid #333;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 #opdracht {
@@ -59,7 +59,7 @@ p{
     width: 30%;
     background-color: rgba(255, 255, 255, 0.4);
     margin-left: 2%;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .analyseneg {

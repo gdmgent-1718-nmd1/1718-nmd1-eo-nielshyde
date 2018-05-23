@@ -6,12 +6,16 @@ body {
     -moz-font-feature-settings: 'kern';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #333;
+    color: #1D1D1B;
     line-height: 1.5em;
     padding: 50px 50px 50px 50px;
-    background-color: rgba(155, 220, 90, 0.75);
+    background-color: rgba(199, 199, 199, 0.75);
     margin-left: 100px;
     margin-right: 100px;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.76);
 }
 
 img {
@@ -21,6 +25,10 @@ img {
 /* Voeg jouw css hieraan toe */
 
 /* Introductie */
+#logo {
+    width: 300px;
+    clear: left;
+}
 
 .info {
     float: left;

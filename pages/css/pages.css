@@ -20,6 +20,7 @@ body {
 
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
+    padding-left: 25px;
 }
 
 
@@ -158,6 +159,12 @@ h2 {
     margin-left: 30px;
 }
 
+#buttons{
+    display: flex;
+    align-items: flex-start;
+    margin-left: 30px;
+}
+
 h3{
     background-color: #2e2e31;
     color: white;
@@ -208,3 +215,4 @@ h6{
     font-weight: lighter;
     border-radius: 5px;    
 }
+

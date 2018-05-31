@@ -22,8 +22,13 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+
+
 /* Voeg jouw css hieraan toe */
 
+h1 {
+    font-weight: medium;
+}
 /* Introductie */
 #logo {
     width: 300px;
@@ -85,4 +90,59 @@ p{
 .analyseflex {
     display: flex;
     flex-wrap: wrap;    
+}
+
+/* Styleguide */
+
+h2 {
+    font-size: 30px;
+    font-weight: lighter;
+    padding-top: 50px;
+    clear: left;
+}
+
+#logo {
+    width: 50%;
+}
+
+.kleur1 {
+    width: 100px;
+    height: 100px;
+    background-color: #2e2e31;
+    border-radius: 5px;
+    
+}
+
+.kleur2 {
+    width: 100px;
+    height: 100px;
+    background-color: #679c36;
+    border-radius: 5px;
+    
+}
+
+.kleur3 {
+    width: 100px;
+    height: 100px;
+    background-color: #1A3700;
+    border-radius: 5px;
+    
+}
+
+.kleur4 {
+    width: 100px;
+    height: 100px;
+    background-color: #FFFFFF;
+    border: 1px solid #2e2e31;
+    border-radius: 5px;
+    
+}
+
+#kleur{
+    padding-left: 20px;
+}
+
+#color{
+    float: left;
+    margin-left: 30px;
 }

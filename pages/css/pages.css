@@ -146,3 +146,65 @@ h2 {
     float: left;
     margin-left: 30px;
 }
+
+.nav{
+    width: 70px;
+    height: 3px;
+    background-color: #679c36;
+    margin-top: 15px;
+}
+
+#opschuiven{
+    margin-left: 30px;
+}
+
+h3{
+    background-color: #2e2e31;
+    color: white;
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 8px 5px 5px 5px;
+    font-size: 33px;
+    border-radius: 5px;
+    font-weight: lighter;
+}
+
+h4{
+    background-color: #2e2e31;
+    color: white;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 5px 5px 5px;
+    font-size: 44px;
+    border-radius: 5px; 
+    font-weight: medium;   
+}
+
+h5{
+    color: #1A3700;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 5px 5px 5px;
+    font-size: 30px;
+    border-radius: 5px; 
+    font-weight: medium;   
+}
+
+h6{
+    background-color: #2e2e31;
+    color: white;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 5px 5px 5px;
+    font-size: 25px;
+    font-weight: lighter;
+    border-radius: 5px;    
+}
